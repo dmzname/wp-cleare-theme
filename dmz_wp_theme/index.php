@@ -1,9 +1,15 @@
 <?php
 /**
-* *Template Name: Страница статей
-* *@package dmz_ex
+* The main template file 
+*
+* *@package dmz_ct
 **/
-get_header();
+get_header(); ?>
 
+    <main>
+        MAIN CONTENT "INDEX"
+    </main>
 
+<?php
+// get_sidebar(); 
 get_footer();
